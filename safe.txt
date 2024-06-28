@@ -1,0 +1,19 @@
+Agent: Good morning! This is Sarah from Bright Ideas Inc. Am I speaking with Alex?
+
+Customer: Yes, this is Alex.
+
+Agent: Great, Alex! I'm calling because we have an exciting new service that helps businesses like yours streamline their social media marketing efforts. We've seen great results with companies in your industry. Could I ask if you're currently handling your social media marketing in-house?
+
+Customer: We actually work with an agency for that.
+
+Agent: I understand. Our service offers personalized strategies that can complement what your agency is doing, helping you reach even more potential customers. We're offering a free consultation to discuss how we can enhance your current efforts without additional cost. Would you be interested in learning more about this opportunity?
+
+Customer: I appreciate the offer, but we're quite satisfied with our current setup.
+
+Agent: That's completely understandable. Is it okay if I follow up with you in a few months to see if there are any changes in your needs?
+
+Customer: Sure, you can do that.
+
+Agent: Perfect! I'll note that down. Thank you for your time, Alex. Have a wonderful day!
+
+Customer: You too.
